@@ -1,4 +1,4 @@
-## Oi eu sou Kauan Lopes, estudante de Ciência da Computação e medalhista nacional de matemática!
+## Dae sou o Kauan Lopes, estudante de Ciência da Computação, medalhista nacional de matemática e participante de uma Olímpiada Internacional na Índia!
 
 <div align="center">
   <a href="https://github.com/Kndofc">
